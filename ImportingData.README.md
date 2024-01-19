@@ -1,4 +1,4 @@
-Importing data into R:
+Importing data into R:<br />
 Reading a FASTQ file from Next-Generation Sequencing (NGS) data.
 
 ```R
